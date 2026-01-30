@@ -196,7 +196,7 @@ if st.button("🔍 Compare with TULYO AI"):
                      font-weight: bold;
                      line-height: 1.6;
                 ">
-                    <h3 style='text-align:center;'>📌 TULYO AI's Comparison</h3>
+                    <h3 style='text-align:center;'>📌 TULYO AI's comparison</h3>
                     <p>{safe_result}</p>
                </div>
                """
